@@ -1,0 +1,24 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\Code\\mongo-java-driver-3.12.11.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "bjpnlqkjhcfkiugy8r4f-mysql.services.clever-cloud.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MyBlogApp",
+            "database": "bjpnlqkjhcfkiugy8r4f",
+            "username": "uxf2zr14vhlvpa7h",
+            "connectionTimeout": 30,
+            "askForPassword": true
+        }
+    ]
+}
